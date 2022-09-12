@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14traits "I tell computers to do things. Sometimes they listen."
 - 👀 I’m interested in further my knowledge and skills in DevSecOps for my job, and making myself a better engineer as a whole.
-- 🌱 I’m currently attending Actualize Coding Bootcamp.
+- 🌱 I’m recently completed Actualize Coding Bootcamp.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
