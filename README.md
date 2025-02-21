@@ -6,8 +6,9 @@
 - 📫 How to reach me ...
 🌱 I’m currently learning GoLang.
 --->
-
-<!---
-14traits/14traits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/14traits/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=14traits&hide_border=true&show_icons=true&rank_icon=github&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/14traits/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=14traits&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=ambient_gradient" />
+</a>
